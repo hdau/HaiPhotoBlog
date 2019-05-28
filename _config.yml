@@ -2,11 +2,11 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
-facebook_username: ""
+url: "https://hdau.github.io"
+baseurl: "/HaiPhotoBlog"
+facebook_username: "Hai Dau"
 twitter_username: ""
-instagram_username: ""
+instagram_username: "hndau"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://hdau.github.io/HaiPhotoBlog/gallery/"  
+  - JOURNAL: "https://hdau.github.io/HaiPhotoBlog/journal/"
+  - ABOUT: "https://hdau.github.io/HaiPhotoBlog/about/"
 
 # All translation keys
 translations:
