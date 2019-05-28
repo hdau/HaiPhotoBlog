@@ -1,6 +1,6 @@
 # Site settings
-title: PHOTORAMA
-email: ""
+title: Hai
+email: "haidau@gmail.com"
 description: "Photo Journal"
 url: "https://hdau.github.io"
 baseurl: "/HaiPhotoBlog"
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Hai
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
